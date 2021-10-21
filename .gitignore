@@ -1,0 +1,3 @@
+tu-key-pair.pem
+terraform.*
+.terraform/* 
